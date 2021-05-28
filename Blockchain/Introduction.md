@@ -11,7 +11,7 @@ Well, `blockchain` is, as the name itself states, a chain compose of blocks. The
 Starting with the first block which is also called `genesis block`, the chain is build up by linking the blocks. The order of the blocks is given by a number… the block number.
 
 By now you are asking yourself:
-<i>Ok… So what’s so special about it?</i>
+<em>Ok… So what’s so special about it?</em>
 
 Well… Here comes the part where the block hash comes involved.
 
@@ -24,4 +24,4 @@ In the header data of each block there are two hashes:
 
 So far, so good ? Let’s keep going.
 
-Already you might have a question and also as a good reader you do not want to bother me with a question for what you know the answer. <i>Why in the image above the genesis block has 0’s for previous hash?</i> - Well… It might have something to do with the fact that it is the fist block of the chain!? Just saying…
+Already you might have a question and also as a good reader you do not want to bother me with a question for what you know the answer. <em>Why in the image above the genesis block has 0’s for previous hash?</em> - Well… It might have something to do with the fact that it is the fist block of the chain!? Just saying…
