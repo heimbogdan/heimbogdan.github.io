@@ -28,9 +28,17 @@ Already you might have a question and also as a good reader you do not want to b
 
 The current block hash is generated based on the information data it holds and previous block hash. This is done to secure the order of the blocks in chain and to add tamper proof on the data it holds.
 
-If someone tries to change something from one block, starting with that block all the hashes must be generated again and updated trough the rest of the blocks. To battle this security problem, blockchain uses the concept of `distributed ledger`, witch means that all nodes in the network hold the same data, that is validated by all nodes and synchronized trough the network. Using a distributed network makes the blockchain technology more secure and harder to tamper with, making the attacker forced to obtain the control of 50% + 1 of the network. Saying this, the more nodes in the network, the more secure the network is.
+If someone tries to change something from one block, starting with that block all the hashes must be generated again and updated trough the rest of the blocks. To battle this security problem, blockchain uses the concept of `distributed ledger`, witch means that all nodes in the network hold the same data, that is validated by all nodes and synchronized trough the network. Using a distributed network makes the blockchain technology more secure and harder to tamper with, making the attacker forced to obtain the control of 51% of the network. Saying this, the more nodes in the network, the more secure the network is.
 
 <img src="https://www.seba.swiss/static/9bf6b53dc571b40802e651d90e64675c/54539/seba-the-bridge-figur-1-attack-on-a-blockchain-24092020_2000px.png">
+
+Apart from the things you read above, blockchain is an immutable cryptographic chain. By design, it cannot be corrupted. Cryptography also protects the data stored inside the chain.​
+
+Also there are two types of blockchain: private and private.
+
+A public blockchain is a permissionless blockchain. Anyone can join the blockchain network, meaning that they can read, write, or participate with a public blockchain. Public blockchains are decentralized, no one has control over the network, and they are secure in that the data can’t be changed once validated on the blockchain.​
+
+A private blockchain is a permissioned blockchain.​ Permissioned networks place restrictions on who is allowed to participate in the network and in what transactions.
 
 <br>
 
