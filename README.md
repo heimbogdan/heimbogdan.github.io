@@ -10,4 +10,4 @@ Feel free to comment and discuss about any topic. Share your idea.
 
 -   [Blockchain](./Blockchain/Blockchain.md)
     -   [Introduction](./Blockchain/Introduction.md)
-    -   [Ethereum](./Ethereum.md)
+    -   [Ethereum](./Blockchain/Ethereum.md)
