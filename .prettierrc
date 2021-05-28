@@ -17,6 +17,13 @@
             "options": {
                 "proseWrap": "always"
             }
+        },
+        {
+            "files": ["*.yml", "*.yaml"],
+            "options": {
+                "useTabs": false,
+                "tabWidth": 2
+            }
         }
     ]
 }
