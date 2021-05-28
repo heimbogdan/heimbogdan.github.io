@@ -13,12 +13,7 @@ By now you are asking yourself:
 
 Well… Here comes the part where the block hash comes involved.
 
-<br>
-
 <img src="https://miro.medium.com/max/977/1*mNdCyhj2WRSzmgTOVztaUg.png">
-
-<br>
-<br>
 
 In the header data of each block there are two hashes:
 
