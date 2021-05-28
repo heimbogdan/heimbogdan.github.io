@@ -40,6 +40,14 @@ A public blockchain is a permissionless blockchain. Anyone can join the blockcha
 
 A private blockchain is a permissioned blockchain.​ Permissioned networks place restrictions on who is allowed to participate in the network and in what transactions.
 
+## What we lerned
+
+-   A blockchain is best described as a public/private database that is updated and shared across many computers in a network.​
+-   `Block` refers to the fact that data and state is stored in sequential batches or `blocks`.
+-   `Chain` refers to the fact that each block cryptographically references its parent.
+-   A block's data cannot be changed without changing all subsequent blocks, which would require the consensus of the entire network.​
+-   Each new block and the chain as a whole must be agreed upon by every node in the network.
+
 <br>
 
 ---
@@ -50,3 +58,4 @@ A private blockchain is a permissioned blockchain.​ Permissioned networks plac
 
 -   [Blockchain](./Blockchain.md)
     -   [Introduction](./Introduction.md)
+    -   [Ethereum](./Ethereum.md)
