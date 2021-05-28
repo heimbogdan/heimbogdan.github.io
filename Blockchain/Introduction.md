@@ -42,3 +42,6 @@ If someone tries to change something from one block, starting with that block al
 
 -   [Blockchain](./Blockchain.md)
     -   [Introduction](./Introduction.md)
+
+*   TOC
+    {:toc}
